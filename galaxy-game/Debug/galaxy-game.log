@@ -1,0 +1,3 @@
+﻿  Game.cpp
+E:\Nam2_hocki2\OOP\LT\Galaxy-game\galaxy-game\Game.cpp(447,24): warning C4018: '>=': signed/unsigned mismatch
+  galaxy-game.vcxproj -> E:\Nam2_hocki2\OOP\LT\Galaxy-game\Debug\galaxy-game.exe
