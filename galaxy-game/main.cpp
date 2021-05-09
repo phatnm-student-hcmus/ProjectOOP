@@ -1,5 +1,6 @@
 #include "Game.h"
 
+// this is main function of my game
 int main(int argc, char* argv[]) {
 	Game galaxy_game;
 	if (galaxy_game.init() == false) 
@@ -9,5 +10,5 @@ int main(int argc, char* argv[]) {
 
 	galaxy_game.run();
 	return 0;
- //phat khung
+	
 }
