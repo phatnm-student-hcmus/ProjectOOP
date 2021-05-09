@@ -9,4 +9,5 @@ int main(int argc, char* argv[]) {
 
 	galaxy_game.run();
 	return 0;
+ //phat khung
 }
